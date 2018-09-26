@@ -24,4 +24,3 @@ cdn_css:          //netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.cs
 cdn_theme_css:    //netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap-theme.min.css
 cdn_js:           //netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js
 
-highlighter: rouge
